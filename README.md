@@ -1,6 +1,6 @@
 ### Hey there! 🙋‍♀️, I'm Kelsea 🎈
 #### Based in New York City ~
-##Full-Stack Developer##
+##### Full-Stack Developer
 I took my first steps into Web Development, designing websites for small business owners. With a curiosity about what was happening under the hood, I dived into the world of programming. I quickly discovered my preference for coding and fell in love debugging and cracking problems. I like my code functional and structured and continue to dig deeper into more tools and technologies to further my frontend and backend knowledge.
 
 - 🔨 **Love coding with:** JavaScript, React, Redux, Ruby, Ruby on Rails, HTML, CSS
